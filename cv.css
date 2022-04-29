@@ -1,0 +1,19 @@
+img {
+    border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+}
+.destacado {
+background-color: rgb(255, 177, 249);
+text-align: center;
+}
+
+h3{
+    text-align: center;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    text-align: center;
+    background-color:rgb(255, 177, 249);
+}
