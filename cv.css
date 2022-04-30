@@ -3,17 +3,36 @@ img {
     -webkit-border-radius: 200px 200px 200px 200px;
     -moz-border-radius: 200px 200px 200px 200px;
 }
-.destacado {
-background-color: rgb(255, 177, 249);
-text-align: center;
+
+html, body {
+    background: url(fondoo.png);
+    text-align: center;
+    color: beige;
+    background-size: cover;
 }
 
-h3{
-    text-align: center;
-font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ul {
+    list-style-type: none;
+}
+
+.destacado {
+    background-color: rgb(255, 177, 249);
+    border-radius: 200px 200px 200px 200px;
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h2 {
+    background-color: rgb(255, 177, 249);
+    border-radius: 200px 200px 200px 200px;
+}
+
+.footer {
+    background-color: rgb(194, 102, 255);
+    padding: 5%;
     text-align: center;
-    background-color:rgb(255, 177, 249);
+    position: absolute;
+    width: 100%;
 }
